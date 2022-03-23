@@ -1,4 +1,4 @@
-# Webpack Starter
+# ToDo APP
 Este proyecto es un To-do App utilizando Webpack
 
 ### Notas:
